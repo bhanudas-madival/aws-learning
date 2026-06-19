@@ -48,3 +48,35 @@
 - Root account should be used sparingly
 - Groups simplify permission management
 - AdministratorAccess provides full administrative permissions
+
+📅 Day Commit – AWS IAM & CLI Fundamentals
+
+Today I completed and practiced core AWS Identity and Access Management (IAM) concepts:
+
+✅ IAM Users, Groups, and Policies
+✅ Created and managed IAM users and groups
+✅ Attached and tested IAM policies
+✅ Understood AWS Console simultaneous sign-in behavior
+✅ Learned IAM MFA concepts and configured MFA hands-on
+✅ Learned AWS Access Keys and their use with CLI/SDK
+✅ Installed and configured AWS CLI on Linux
+✅ Practiced AWS CLI commands using configured credentials
+✅ Explored AWS CloudShell and its regional availability
+
+Key Takeaways:
+
+* IAM controls authentication and authorization in AWS.
+* Users inherit permissions through groups and attached policies.
+* MFA adds an important security layer for AWS accounts.
+* Access Keys enable programmatic access through AWS CLI and SDKs.
+* AWS CLI allows managing AWS resources directly from the terminal.
+* CloudShell provides a browser-based shell with AWS CLI preconfigured.
+
+Hands-on Skills Gained:
+
+* IAM user creation and permission management
+* MFA configuration
+* AWS CLI setup and credential configuration
+* Basic AWS CLI operations
+* CloudShell usage
+
