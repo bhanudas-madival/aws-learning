@@ -80,3 +80,44 @@ Hands-on Skills Gained:
 * Basic AWS CLI operations
 * CloudShell usage
 
+# AWS SAA-C03 - IAM Reinforcement
+
+## IAM Concepts
+
+* Clarified AWS Account vs Root User vs IAM User
+* Understood AWS Account contains:
+
+  * Root User
+  * IAM Users
+  * Groups
+  * Policies
+  * Roles
+  * AWS Resources
+
+## Account Alias
+
+* Confirmed Account Alias belongs to the AWS Account
+* Verified Account Alias is not tied to a specific IAM User
+* Understood IAM Users use the Account Alias login URL
+
+## IAM Permissions
+
+* Reviewed permission inheritance through IAM Groups
+* Revisited AdministratorAccess policy behavior
+
+## IAM Policy Structure
+
+* Studied policy components:
+
+  * Statement
+  * Effect
+  * Action
+  * Resource
+  * Condition
+* Understood how IAM policies define permissions
+
+## IAM & AWS CLI Revision
+
+* Reviewed key IAM concepts from completed section
+* Created concept and practical Anki cards for retention
+* Identified high-value concepts for SAA-C03 preparation
