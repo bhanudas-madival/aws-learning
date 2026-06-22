@@ -121,3 +121,45 @@ Hands-on Skills Gained:
 * Reviewed key IAM concepts from completed section
 * Created concept and practical Anki cards for retention
 * Identified high-value concepts for SAA-C03 preparation
+
+# AWS SAA-C03 - EC2 Fundamentals
+
+## AWS Budget Setup
+- Learned AWS Budget for cost monitoring and alerts
+- Understood importance of tracking AWS spending
+
+## EC2 Basics
+- EC2 (Elastic Compute Cloud) provides virtual servers in AWS
+- EC2 instances can be launched on demand
+- Learned basic EC2 launch workflow
+
+## EC2 Instance Hands-On
+- Launched an EC2 instance
+- Selected AMI
+- Selected Instance Type
+- Configured Key Pair
+- Configured Security Group
+- Used User Data during instance launch
+
+## EC2 User Data
+- User Data runs automatically during instance startup
+- Used User Data to automate website deployment
+- Understood basic instance bootstrapping
+
+## EC2 Instance Types
+- Learned purpose of different instance families
+- General Purpose
+- Compute Optimized
+- Memory Optimized
+- Storage Optimized
+
+## Security Groups
+- Learned Security Groups act as instance-level firewalls
+- Understood Inbound and Outbound Rules
+- Security Groups contain Allow rules
+- Learned common ports:
+  - SSH (22)
+  - HTTP (80)
+  - HTTPS (443)
+  - FTP (21)
+  - RDP (3389)
