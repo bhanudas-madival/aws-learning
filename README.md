@@ -163,3 +163,33 @@ Hands-on Skills Gained:
   - HTTPS (443)
   - FTP (21)
   - RDP (3389)
+## IAM & Region Review
+
+### AWS Regions
+- Latency
+- Compliance / Data Residency
+- Service Availability
+- Cost
+
+### Availability Zones
+- Isolated data centers within a Region
+- Connected by low-latency network
+- Improve fault tolerance and availability
+
+### IAM
+- IAM Users
+- IAM Groups
+- IAM Policies
+- IAM Roles
+- Policy Inheritance
+- MFA
+
+### AWS CLI
+- `aws configure`
+- `aws --version`
+- `aws sts get-caller-identity`
+
+### IAM Roles
+- Create Role
+- Trusted Entity: EC2
+- Attach permissions to EC2 without storing access keys
