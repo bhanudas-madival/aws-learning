@@ -193,3 +193,71 @@ Hands-on Skills Gained:
 - Create Role
 - Trusted Entity: EC2
 - Attach permissions to EC2 without storing access keys
+
+# AWS SAA-C03 - EC2 Fundamentals
+
+## AWS Budget
+- Learned how AWS Budgets help monitor costs and usage
+- Understood budgets can be used to receive spending alerts
+
+## Amazon EC2
+- Learned EC2 (Elastic Compute Cloud) provides virtual servers in AWS
+- Understood the basic EC2 instance launch workflow
+
+## EC2 Instance Launch
+- Launched EC2 instances through the AWS Console
+- Selected AMI for the operating system
+- Selected appropriate Instance Type
+- Created and used a Key Pair
+- Configured Security Groups
+- Configured storage and networking options
+- Added User Data during instance launch
+
+## EC2 User Data
+- Learned User Data executes automatically during the first instance boot
+- Used User Data to automatically deploy a web server
+- Verified the deployed website through the browser
+
+## EC2 Instance Types
+- Learned the EC2 naming convention
+- Studied instance families:
+  - General Purpose
+  - Compute Optimized
+  - Memory Optimized
+  - Storage Optimized
+- Understood when each family should be selected
+
+## Security Groups
+- Learned Security Groups act as stateful virtual firewalls
+- Configured Inbound and Outbound Rules
+- Understood Security Groups contain only Allow rules
+- Practiced allowing HTTP and SSH access
+- Reviewed common ports:
+  - SSH (22)
+  - FTP (21)
+  - HTTP (80)
+  - HTTPS (443)
+  - RDP (3389)
+
+## EC2 Connectivity
+- Learned multiple methods to connect to EC2 instances:
+  - SSH
+  - OpenSSH (Windows 10/11)
+  - PuTTY
+  - EC2 Instance Connect
+- Practiced SSH connectivity
+- Learned common SSH troubleshooting steps
+
+## IAM Roles for EC2
+- Learned how IAM Roles provide temporary credentials to EC2 instances
+- Understood why IAM Roles are preferred over Access Keys on EC2
+
+## EC2 Purchasing Options
+- Learned On-Demand Instances
+- Learned Spot Instances
+- Compared use cases and cost differences
+- Performed hands-on with EC2 launch options
+
+## Section Completion
+- Completed Section 5: EC2 Fundamentals
+- Created a minimal Anki deck covering important concepts and practical labs for long-term retention
