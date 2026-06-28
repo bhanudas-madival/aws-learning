@@ -261,3 +261,36 @@ Hands-on Skills Gained:
 ## Section Completion
 - Completed Section 5: EC2 Fundamentals
 - Created a minimal Anki deck covering important concepts and practical labs for long-term retention
+
+# AWS SAA-C03 - EC2 Solutions Architect Associate Level
+
+## Public IP vs Private IP vs Elastic IP
+- Learned the differences between Private IP, Public IP and Elastic IP
+- Understood when each IP type is assigned and used
+- Practiced allocating and associating an Elastic IP with an EC2 instance
+- Learned Elastic IPs are static public IPv4 addresses
+
+## EC2 Placement Groups
+- Learned the purpose of Placement Groups
+- Studied the three placement strategies:
+  - Cluster
+  - Spread
+  - Partition
+- Understood the use cases and trade-offs of each strategy
+- Performed hands-on creating and testing Placement Groups
+
+## Elastic Network Interface (ENI)
+- Learned what an ENI is and its purpose
+- Understood primary and secondary private IP addresses
+- Learned ENIs can be detached and attached to supported EC2 instances
+- Performed hands-on working with ENIs
+
+## EC2 Hibernate
+- Learned the difference between Stop, Terminate and Hibernate
+- Understood that Hibernate preserves the in-memory (RAM) state
+- Learned Hibernate requirements and limitations
+- Performed hands-on hibernating and resuming an EC2 instance
+
+## Section Completion
+- Completed Section 6: EC2 – Solutions Architect Associate Level
+- Completed all hands-on labs and quiz
