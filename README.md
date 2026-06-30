@@ -294,3 +294,58 @@ Hands-on Skills Gained:
 ## Section Completion
 - Completed Section 6: EC2 – Solutions Architect Associate Level
 - Completed all hands-on labs and quiz
+
+# AWS SAA-C03 - EC2 Instance Storage
+
+## Amazon EBS (Elastic Block Store)
+- Learned EBS provides persistent block storage for EC2 instances
+- Understood EBS volumes are network-attached storage
+- Learned EBS volumes are limited to a single Availability Zone
+- Practiced creating, attaching, detaching and deleting EBS volumes
+- Learned Delete-on-Termination behavior for root and additional volumes
+
+## EBS Snapshots
+- Learned snapshots provide point-in-time backups of EBS volumes
+- Practiced creating and restoring EBS snapshots
+- Learned snapshots can be copied across Availability Zones and Regions
+- Studied Snapshot Archive, Recycle Bin and Fast Snapshot Restore (FSR)
+
+## Amazon Machine Images (AMI)
+- Learned an AMI is a customized template used to launch EC2 instances
+- Practiced creating a custom AMI from an EC2 instance
+- Launched a new EC2 instance from the custom AMI
+- Learned AMIs are Region-specific and can be copied to other Regions
+
+## EC2 Instance Store
+- Learned the difference between Instance Store and EBS
+- Understood Instance Store provides high-performance temporary local storage
+- Learned Instance Store data is lost when the instance stops or hardware fails
+- Identified suitable use cases such as cache, buffers and temporary data
+
+## EBS Volume Types
+- Studied General Purpose SSD (gp2, gp3)
+- Studied Provisioned IOPS SSD (io1, io2)
+- Studied Throughput Optimized HDD (st1)
+- Studied Cold HDD (sc1)
+- Learned appropriate workloads and performance characteristics for each volume type
+
+## EBS Multi-Attach
+- Learned io1/io2 volumes support Multi-Attach
+- Understood a single EBS volume can be attached to multiple EC2 instances within the same Availability Zone
+- Learned cluster-aware file systems are required
+
+## EBS Encryption
+- Learned EBS encryption uses AWS KMS
+- Understood encryption protects data at rest, snapshots and data in transit between EC2 and EBS
+- Learned how to encrypt an existing unencrypted volume using snapshots
+
+## Amazon EFS (Elastic File System)
+- Learned EFS is a managed NFS file system
+- Understood EFS can be mounted by multiple EC2 instances across multiple Availability Zones
+- Practiced creating and mounting an EFS file system
+- Learned EFS uses Security Groups to control network access
+- Compared EFS with EBS and identified appropriate use cases for each
+
+## Section Completion
+- Completed Section 7: EC2 Instance Storage
+- Completed all hands-on labs, cleanup and quiz
