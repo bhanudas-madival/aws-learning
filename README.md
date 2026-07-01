@@ -349,3 +349,14 @@ Hands-on Skills Gained:
 ## Section Completion
 - Completed Section 7: EC2 Instance Storage
 - Completed all hands-on labs, cleanup and quiz
+
+Complete GitHub Pull Request workflow and collaboration practice
+
+- Practiced feature branch workflow on GitHub
+- Created and pushed a feature branch
+- Opened a real Pull Request
+- Reviewed Pull Request architecture and GitHub interface
+- Explored Conversation, Commits, Files Changed, and Review workflow
+- Merged a Pull Request into the main branch
+- Practiced remote branch cleanup and synchronization
+- Reinforced fork, origin/upstream, and GitHub collaboration concepts
