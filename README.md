@@ -360,3 +360,54 @@ Complete GitHub Pull Request workflow and collaboration practice
 - Merged a Pull Request into the main branch
 - Practiced remote branch cleanup and synchronization
 - Reinforced fork, origin/upstream, and GitHub collaboration concepts
+AWS Fundamentals & IAM
+
+**Date:** 27 July 2026
+
+### Topics Covered
+
+#### AWS Cloud Fundamentals
+- AWS Cloud History
+- AWS Cloud Facts
+- AWS Cloud Use Cases
+
+#### AWS Global Infrastructure
+- AWS Regions
+- Availability Zones (AZs)
+- Edge Locations / Points of Presence
+- Choosing the Right AWS Region
+- Global vs Regional AWS Services
+
+#### Identity & Access Management (IAM)
+- IAM Users
+- IAM Groups
+- IAM Policies
+- IAM Policy Structure
+- IAM Policy Inheritance
+- IAM Roles
+- Password Policies
+- Multi-Factor Authentication (MFA)
+- MFA Device Options
+- Access Keys
+- AWS CLI
+- AWS SDK
+- IAM Security Tools
+- IAM Best Practices
+
+### Key Concepts Learned
+
+- Difference between Regions, AZs, and Edge Locations
+- Factors for selecting an AWS Region
+- Global services vs Regional services
+- IAM authentication and authorization
+- Principle of Least Privilege
+- IAM Users, Groups, Policies, and Roles
+- Password policies and MFA for enhanced security
+- Programmatic access using Access Keys
+- Difference between AWS Management Console, CLI, and SDK
+- IAM security recommendations and best practices
+
+### Status
+
+- ✅ Completed theory
+- ⏳ Hands-on practice planned
