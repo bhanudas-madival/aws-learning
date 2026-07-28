@@ -411,3 +411,28 @@ AWS Fundamentals & IAM
 
 - ✅ Completed theory
 - ⏳ Hands-on practice planned
+EC2 Instance Storage
+
+Today I studied AWS EC2 storage services and their use cases.
+
+### Topics Covered
+
+- Amazon EBS (Elastic Block Store)
+- Delete on Termination
+- EBS Snapshots
+- Amazon Machine Image (AMI)
+- EC2 Instance Store
+- EBS Volume Types (gp3, gp2, io1, io2, st1, sc1)
+- EBS Multi-Attach
+- EBS Encryption
+- Amazon EFS (Elastic File System)
+- EFS Storage Classes
+- EBS vs EFS vs Instance Store comparison
+
+### Key Learnings
+
+- Understood persistent vs ephemeral storage.
+- Learned EBS snapshots, AMIs, and encryption.
+- Explored EBS volume types and their use cases.
+- Learned when to use EFS for shared storage.
+- Compared EBS, EFS, and Instance Store for different workloads. :contentReference[oaicite:0]{index=0}
