@@ -436,3 +436,13 @@ Today I studied AWS EC2 storage services and their use cases.
 - Explored EBS volume types and their use cases.
 - Learned when to use EFS for shared storage.
 - Compared EBS, EFS, and Instance Store for different workloads. :contentReference[oaicite:0]{index=0}
+finish IAM & AWS CLI section
+
+- Learned IAM users, groups, policies, and roles
+- Practiced creating IAM users and groups
+- Configured MFA for enhanced account security
+- Learned AWS access keys, CLI, and SDK concepts
+- Configured AWS CLI on Windows and Linux
+- Practiced AWS CloudShell
+- Explored IAM security tools and best practices
+- Completed IAM summary and hands-on exercises
