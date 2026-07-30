@@ -446,3 +446,14 @@ finish IAM & AWS CLI section
 - Practiced AWS CloudShell
 - Explored IAM security tools and best practices
 - Completed IAM summary and hands-on exercises
+EC2 Fundamentals
+
+- Practiced launching EC2 instances
+- Configured User Data for web server setup
+- Learned EC2 instance types
+- Worked with Security Groups
+- Practiced SSH connectivity and troubleshooting
+- Explored EC2 Instance Connect
+- Understood IAM Roles for EC2
+- Learned EC2 purchasing options and Spot Instances
+- Completed EC2 launch types hands-on and quiz
