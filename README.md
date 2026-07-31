@@ -457,3 +457,21 @@ EC2 Fundamentals
 - Understood IAM Roles for EC2
 - Learned EC2 purchasing options and Spot Instances
 - Completed EC2 launch types hands-on and quiz
+Topics Completed:
+- Private IP vs Public IP vs Elastic IP
+- Elastic IP Hands-on
+- EC2 Placement Groups
+- Placement Groups Hands-on
+- Elastic Network Interfaces (ENI)
+- ENI Hands-on
+- ENI Extra Reading
+- EC2 Hibernate
+- EC2 Hibernate Hands-on
+
+### Key Concepts Learned
+- Difference between Private IP, Public IP, and Elastic IP
+- Elastic IP allocation and association
+- Cluster, Partition, and Spread Placement Groups
+- ENI features, secondary private IPs, and multiple ENIs
+- EC2 Hibernate requirements, limitations, and use cases
+- Practical AWS Console experience through hands-on labs
