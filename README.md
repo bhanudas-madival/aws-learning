@@ -475,3 +475,34 @@ Topics Completed:
 - ENI features, secondary private IPs, and multiple ENIs
 - EC2 Hibernate requirements, limitations, and use cases
 - Practical AWS Console experience through hands-on labs
+AWS SAA-C03 – Section 8: High Availability and Scalability (ELB & ASG)
+
+Completed topics:
+- High Availability and Scalability concepts
+- Elastic Load Balancer (ELB) Overview
+- Application Load Balancer (ALB)
+- ALB Hands-on
+- Network Load Balancer (NLB)
+- NLB Hands-on
+- Gateway Load Balancer (GWLB)
+- Sticky Sessions
+- Cross-Zone Load Balancing
+- SSL Certificates with ELB
+- SSL Certificates Hands-on
+- Connection Draining (Deregistration Delay)
+- Auto Scaling Groups (ASG) Overview
+- ASG Hands-on
+- ASG Scaling Policies
+- ASG Scaling Policies Hands-on
+- Completed High Availability & Scalability Quiz
+
+### Key Concepts Learned
+- Difference between High Availability and Scalability
+- Choosing the right AWS Load Balancer (ALB, NLB, GWLB)
+- How ELB distributes traffic across multiple Availability Zones
+- Session persistence using Sticky Sessions
+- Cross-Zone Load Balancing behavior
+- SSL/TLS termination with ELB
+- Connection Draining (Deregistration Delay)
+- Auto Scaling Groups for fault tolerance and automatic scaling
+- Dynamic, Target Tracking, Step, and Scheduled Scaling Policies
