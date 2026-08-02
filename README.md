@@ -506,3 +506,33 @@ Completed topics:
 - Connection Draining (Deregistration Delay)
 - Auto Scaling Groups for fault tolerance and automatic scaling
 - Dynamic, Target Tracking, Step, and Scheduled Scaling Policies
+Linux LVM (Logical Volume Manager)
+
+### Topics Practiced
+- Reviewed LVM architecture (PV → VG → LV)
+- Created and managed Physical Volumes (PV)
+- Created and extended Volume Groups (VG)
+- Created Logical Volumes (LV)
+- Formatted and mounted logical volumes
+- Extended Logical Volumes and resized the filesystem
+- Reviewed LVM management commands
+
+### Commands Practiced
+- pvcreate
+- pvs
+- vgcreate
+- vgs
+- lvcreate
+- lvs
+- lvextend
+- resize2fs
+- xfs_growfs (review)
+- mkfs.ext4
+- mount
+- lsblk
+- df -h
+
+### Key Learning
+- Understood how LVM provides flexible disk management.
+- Learned the relationship between Physical Volumes, Volume Groups, and Logical Volumes.
+- Practiced extending storage without recreating partitions.
